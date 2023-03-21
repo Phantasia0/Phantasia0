@@ -6,8 +6,8 @@
 <h3>🔭 Me 🔭</h3>
 <p><b>프론트엔드 개발자</b>가 되기 위해 열공 중!</p>
 <p> My main skills are HTML, CSS, JavaScript, React and Node.js</p>
-<p>I'm a persistent person, who study hard day and night for be a good developer.🥰</p>
-<h3>🔥 Tech Stack and will Focus on 🔥</h3>
+<p>I'm a persistent person, want to be a good developer.🥰</p>
+<h3>🔥 will be my Tech Stack and will Focus on 🔥</h3>
 <p><a href="https://developer.mozilla.org/ko/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1572B6?style=&logo=CSS3&logoColor=white"/></a>
 <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-gray?style=&logo=JavaScript&logoColor=#F7DF1E"/></a>
 <a href="https://developer.mozilla.org/ko/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=&logo=HTML5&logoColor=white"/></a></p>
