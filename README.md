@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=⛄🆔&fontAlign=70)
+
 
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=⛄🆔&fontAlign=70)
 <h3>🔭 Me 🔭</h3>
 <p><b>프론트엔드 개발자</b>가 되기 위해 열공 중!</p>
 <p> My main skills are HTML, CSS, JavaScript, React and Node.js</p>
