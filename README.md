@@ -1,4 +1,4 @@
-![Wonjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncprog1@gmmail.com&show_icons=true&theme=radical)
+![Wonjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phantasia0&show_icons=true&theme=radical)
 
 <!--
 **Phantasia0/Phantasia0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
