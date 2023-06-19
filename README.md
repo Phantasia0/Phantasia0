@@ -33,6 +33,6 @@
 
 ![WonJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phantasia0&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langague](https://github-readme-stats.vercel.app/api/top-langs/?username=Phantasia0&count_private=true&langs_count=10&layout=compact&theme=tokyonight) 
-[![Wonjun's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Phantasia0&custom_title=History&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Wonjun's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Phantasia0&custom_title=History&theme=tokyo-night)](https://github.com/Phantasia0/github-readme-activity-graph)
 
 <div>
