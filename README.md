@@ -4,13 +4,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=⛄🆔&fontAlign=70)
 <h3>🔭 Me 🔭</h3>
-<p><b>프론트엔드 개발자</b>가 되기 위해 열공 중!</p>
-<p> Focus on HTML, CSS, JavaScript, React and Node.js</p>
+<p><b>역량있는 프론트엔드 개발자</b>가 되기 위해 열공 중!</p>
+<p> Focus on HTML, CSS, JavaScript, TypeScript, React and Node.js</p>
 <p>I'm a persistent person, want to be a good developer.🥰</p>
-<h3>🔥 will be my Tech Stack and will Focus on 🔥</h3>
+<h3>🔥 my Tech Stack and Focus on 🔥</h3>
 <p><a href="https://developer.mozilla.org/ko/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1572B6?style=&logo=CSS3&logoColor=white"/></a>
 <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-gray?style=&logo=JavaScript&logoColor=#F7DF1E"/></a>
-<a href="https://developer.mozilla.org/ko/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=&logo=HTML5&logoColor=white"/></a></p>
+<a href="https://developer.mozilla.org/ko/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white" /></p>
+
 
 <a href="https://ko.reactjs.org/"><img src="https://img.shields.io/badge/React-blue?style=&logo=React&logoColor=#61DAFB"/></a>
 
@@ -24,6 +26,7 @@
 <img src="https://img.shields.io/badge/AWS S3-569A31?style=&logo=Amazon S3&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=&logo=GitHub&logoColor=white"/>
 <a href="https://www.sourcetreeapp.com/">
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=&logo=Sourcetree&logoColor=white"/>
