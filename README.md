@@ -16,11 +16,6 @@
 
 <a href="https://ko.reactjs.org/"><img src="https://img.shields.io/badge/React-blue?style=&logo=React&logoColor=#61DAFB"/></a>
 
-<a href="https://nodejs.org/ko/"><img src="https://img.shields.io/badge/Node.js-339933?style=&logo=Node.js&logoColor=white"/></a>
-<a href="https://expressjs.com/ko/"><img src="https://img.shields.io/badge/Express-000000?style=&logo=Express&logoColor=white"/></a>
-
-<a href="https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_apac-kr_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624365&adgroup=115749706703&cq_cmp=12212624365&gclid=Cj0KCQiApKagBhC1ARIsAFc7Mc6_4WgjIAEWQ95e9XsKLNapwzrK2L9HoxqTsnJa7AtnH6CrzvLCTggaApIQEALw_wcB"><img src="https://img.shields.io/badge/MongoDB-47A248?style=&logo=MongoDB&logoColor=white"/> </a>
-
 <a href="https://aws.amazon.com/ko/free/?trk=fa2d6ba3-df80-4d24-a453-bf30ad163af9&sc_channel=ps&s_kwcid=AL!4422!3!563761819834!e!!g!!aws&ef_id=Cj0KCQiApKagBhC1ARIsAFc7Mc439Ec1oAMatEG588Z9Z9udI2aaKDuxWyWgIT5ZhF01JVuNcMjKXZUaAl55EALw_wcB:G:s&s_kwcid=AL!4422!3!563761819834!e!!g!!aws&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all"><img src="https://img.shields.io/badge/AWS-232F3E?style=&logo=Amazon AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=&logo=Amazon AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS S3-569A31?style=&logo=Amazon S3&logoColor=white"/>
