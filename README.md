@@ -29,7 +29,16 @@
 
 <br>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phantasia0&theme=nord_dark&width=1)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Phantasia0&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Phantasia0&theme=dracula)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Phantasia0&theme=tokyonight&card_height=215)](https://git.io/streak-stats)
 ![Top Langague](https://github-readme-stats.vercel.app/api/top-langs/?username=Phantasia0&count_private=true&langs_count=10&layout=compact&theme=dracula) 
-[![Wonjun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Phantasia0&theme=dracula)](https://github.com/Phantasia0/github-readme-activity-graph)
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Phantasia0&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
+
 
 <div>
